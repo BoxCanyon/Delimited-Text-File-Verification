@@ -1,0 +1,9 @@
+c:\users\tiy98\documents\visual studio 2015\Projects\DelimitedTextFileVerifier\DelimitedTextFileVerifier\bin\Debug\DelimitedTextFileVerifier.exe.config
+C:\Users\tiy98\documents\visual studio 2015\Projects\DelimitedTextFileVerifier\DelimitedTextFileVerifier\bin\Debug\DelimitedTextFileVerifier.exe
+C:\Users\tiy98\documents\visual studio 2015\Projects\DelimitedTextFileVerifier\DelimitedTextFileVerifier\bin\Debug\DelimitedTextFileVerifier.pdb
+C:\Users\tiy98\documents\visual studio 2015\Projects\DelimitedTextFileVerifier\DelimitedTextFileVerifier\bin\Debug\DelimitedTextFileVerifier.xml
+C:\Users\tiy98\documents\visual studio 2015\Projects\DelimitedTextFileVerifier\DelimitedTextFileVerifier\obj\Debug\DelimitedTextFileVerifier.Resources.resources
+C:\Users\tiy98\documents\visual studio 2015\Projects\DelimitedTextFileVerifier\DelimitedTextFileVerifier\obj\Debug\DelimitedTextFileVerifier.vbproj.GenerateResource.Cache
+C:\Users\tiy98\documents\visual studio 2015\Projects\DelimitedTextFileVerifier\DelimitedTextFileVerifier\obj\Debug\DelimitedTextFileVerifier.exe
+C:\Users\tiy98\documents\visual studio 2015\Projects\DelimitedTextFileVerifier\DelimitedTextFileVerifier\obj\Debug\DelimitedTextFileVerifier.xml
+C:\Users\tiy98\documents\visual studio 2015\Projects\DelimitedTextFileVerifier\DelimitedTextFileVerifier\obj\Debug\DelimitedTextFileVerifier.pdb
